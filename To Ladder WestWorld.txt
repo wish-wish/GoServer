@@ -1,0 +1,8 @@
+
+TO WestWorld
+you got my money. but what time can access the "https://proxy.golang.org"?
+ps:
+
+Get \"https://proxy.golang.org/github.com/uudashr/gopkgs/v2/cmd/gopkgs/@v/list\": dial tcp 216.58.200.241:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.\n"
+
+什么时候才能访问？
